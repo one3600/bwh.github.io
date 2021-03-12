@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://bwh.github.io</id>
+    <id>https://one3600.github.io</id>
     <title>Gridea</title>
-    <updated>2021-03-12T15:54:45.739Z</updated>
+    <updated>2021-03-12T15:58:38.796Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://bwh.github.io"/>
-    <link rel="self" href="https://bwh.github.io/atom.xml"/>
+    <link rel="alternate" href="https://one3600.github.io"/>
+    <link rel="self" href="https://one3600.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://bwh.github.io/images/avatar.png</logo>
-    <icon>https://bwh.github.io/favicon.ico</icon>
+    <logo>https://one3600.github.io/images/avatar.png</logo>
+    <icon>https://one3600.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[搬瓦工特价套餐，洛杉矶CN2 GIA，香港CN2 GIA，日本大阪软银]]></title>
-        <id>https://bwh.github.io/post/ban-wa-gong-te-jie-tao-can-luo-shan-ji-cn2-giaxiang-gang-cn2-giari-ben-da-ban-ruan-yin/</id>
-        <link href="https://bwh.github.io/post/ban-wa-gong-te-jie-tao-can-luo-shan-ji-cn2-giaxiang-gang-cn2-giari-ben-da-ban-ruan-yin/">
+        <id>https://one3600.github.io/post/ban-wa-gong-te-jie-tao-can-luo-shan-ji-cn2-giaxiang-gang-cn2-giari-ben-da-ban-ruan-yin/</id>
+        <link href="https://one3600.github.io/post/ban-wa-gong-te-jie-tao-can-luo-shan-ji-cn2-giaxiang-gang-cn2-giari-ben-da-ban-ruan-yin/">
         </link>
         <updated>2021-03-12T15:25:50.000Z</updated>
         <content type="html"><![CDATA[<p>搬瓦工（BandwagonHost）是美国IT7公司旗下的一家便宜VPS商家，主要提供基于KVM架构的VPS套餐，拥有全球各地共计14个机房，包括大陆地区访问比较快的中国香港CN2 GIA机房和洛杉矶CN2 GIA机房。</p>
@@ -22,8 +22,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://bwh.github.io/post/hello-gridea/</id>
-        <link href="https://bwh.github.io/post/hello-gridea/">
+        <id>https://one3600.github.io/post/hello-gridea/</id>
+        <link href="https://one3600.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
